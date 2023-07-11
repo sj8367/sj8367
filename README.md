@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj8367&label=Profile%20views&color=0e75b6&style=flat" alt="sj8367" /> </p>
 
-- 🌱 I’m currently learning **Python ,SQL, Statistics,PpowerBI, Advance EXCEL**
+- 🌱 I’m currently learning **Python ,SQL, Statistics, PowerBI, Advance EXCEL**
 
 - 💬 Ask me about **Security Specialist**
 
