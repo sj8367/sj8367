@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/killer-infographics-inc/images/f_auto,q_auto/v1567031539/BlogHeader_Motion/BlogHeader_Motion.jpg?_i=AA)]
 <h1 align="center">Hi 👋, I'm Sachin Jaiswar</h1>
-<h3 align="center">A passionate and Aspiring DATA SCIENTIST from India</h3>
+<h3 align="center">A passionate and Aspiring Data Analyst / Business Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://digitalmarketingtrends.in/wp-content/uploads/2018/05/Digital-Advertising-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj8367&label=Profile%20views&color=0e75b6&style=flat" alt="sj8367" /> </p>
